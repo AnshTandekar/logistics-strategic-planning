@@ -64,4 +64,4 @@ python src/06_inventory.py
 Dantzig & Ramser (1959); Clarke & Wright (1964); Toth & Vigo (2014); Silver, Pyke & Thomas (2017); Hyndman & Athanasopoulos (2021); Makridakis et al. (2022); Google OR-Tools documentation.
 
 ## Author
-[Your Name], [Course / Internship]
+Ansh Tandekar, Logistics Data Analyst Intern.
